@@ -1,0 +1,11 @@
+.bg-info{
+    background-color: aqua;
+    margin: 5px;
+    text-align: center;
+    border: 5px dashed darkcyan;
+    border-radius: 20px;
+}
+img{
+    width: 150px;
+    height: 80px;
+}
